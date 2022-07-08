@@ -1,23 +1,16 @@
-# Next.js + Tailwind CSS Example
+## Twitter Clone
+Give me a star for my efforts.
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+## Tools
+1. TypeScript
+2. React 
+3. Next.js
+4. Sanity CMS
+5. TailwindCss
 
-## Deploy your own
-
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-# or
-pnpm create next-app -- --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+## Follow Me
+[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCpSg_NBPjrI5c-g1BPFWg_w)
+[![Codepen](https://img.shields.io/badge/-Codepen-090909?style=for-the-badge&logo=codepen)](https://codepen.io/STAPE)
+[![Dribbble](https://img.shields.io/badge/-Dribbble-090909?style=for-the-badge&logo=dribbble)](https://dribbble.com/STAPE-Web)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/+Hfd2Syn-En1lNmVi)
+[![Freelance](https://img.shields.io/badge/-Freelance-090909?style=for-the-badge&logo=kwork)](https://kwork.ru/user/kirill_kirilenko)
