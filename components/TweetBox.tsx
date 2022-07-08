@@ -88,7 +88,7 @@ const TweetBox = ({ setTweets }: Props) => {
                     {image && <img className='mt-10 h-40 w-full rounded-xl object-contain shadow-lg' src={image} alt="" />}
                 </form>
             </div>
-        </div >
+        </div>
     )
 }
 
